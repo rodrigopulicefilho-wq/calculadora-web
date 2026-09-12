@@ -1,6 +1,6 @@
 # calculadora-web
 
-Projeto de uma calculadora moderna e responsiva desenvolvida para praticar conceitos fundamentais do desenvolvimento web front-end.
+Projeto de uma calculadora moderna e responsiva desenvolvida com ia para praticar conceitos fundamentais do desenvolvimento web front-end.
 
 ---
 
